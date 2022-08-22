@@ -42,7 +42,7 @@ export default function Show() {
         Show Page
         <h3>{snack.name}</h3>
         <div>
-          <img src={snack.image} alt={snack.name} />
+          <img src={snack.image} alt={snack.name} height="400" width="400" />
           <aside>
             <HeartHealth snackHealth={snack.is_healthy} />
           </aside>
