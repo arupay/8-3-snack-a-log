@@ -28,7 +28,7 @@ export default function Index() {
         {snacks.map((snack) => (
           <Col key={snack.id}>
             <Link to={"/snacks/" + snack.id}>
-              <Card style={{ width: "20rem" }}>
+              <Card style={{ width: "25rem", margin: "5px" }}>
                 <Card.Img variant="top" src={snack.image} />
                 <Card.Body>
                   <Card.Title>
