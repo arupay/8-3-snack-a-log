@@ -44,18 +44,5 @@ export default function Index() {
         ))}
       </Row>
     </Container>
-    // <ul>
-    //   {snacks.map((snack) => (
-    //     <li key={snack.id} className="Snack">
-    //       <Link to={"/snacks/" + snack.id}>
-    //         <h4>
-    //           <HeartHealth snackHealth={snack.is_healthy} /> {snack.name}
-    //           <img src={snack.image} alt="" />
-    //         </h4>
-    //         {/* {snack.is_healthy ? `true` : `false`} */}
-    //       </Link>
-    //     </li>
-    //   ))}
-    // </ul>
   );
 }

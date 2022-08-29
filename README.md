@@ -8,6 +8,7 @@ _You and your partner should include links or images of the following resources 
   https://trello.com/b/2o6Wg0PF/snack-a-long
 - Wireframes
 - ERDs
+  https://snack-a-log-5.netlify.app/ DEPLOYED SITE
 
 ## Snack-a-log
 
@@ -166,8 +167,6 @@ Keep the React app running, open a new tab and run
 
 This project uses [this template](https://github.com/joinpursuit/pern-final-project-template) - you can follow the readme to set up deployment.
 
-
 Were working?? Kedari
 testing 1 2 3 augusto
 testing 1 2 3 4 5 6
-

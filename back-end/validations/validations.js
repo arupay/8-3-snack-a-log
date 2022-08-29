@@ -9,7 +9,7 @@ const appendHealthyValue = (req, res, next) => {
 };
 
 const defaultImage = (req, res, next) => {
-  req.body.image ? null : (req.body.image = defaultImgUrl);
+  req.body.image_url ? null : (req.body.image_url = defaultImgUrl);
   next();
 };
 
